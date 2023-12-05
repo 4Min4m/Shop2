@@ -1,0 +1,9 @@
+E:\vs\forooshgah\forooshgah\bin\Debug\forooshgah.exe
+E:\vs\forooshgah\forooshgah\bin\Debug\forooshgah.pdb
+E:\vs\forooshgah\forooshgah\obj\Debug\ResolveAssemblyReference.cache
+E:\vs\forooshgah\forooshgah\obj\Debug\forooshgah.Form2.resources
+E:\vs\forooshgah\forooshgah\obj\Debug\forooshgah.Properties.Resources.resources
+E:\vs\forooshgah\forooshgah\obj\Debug\forooshgah.csproj.GenerateResource.Cache
+E:\vs\forooshgah\forooshgah\obj\Debug\forooshgah.exe
+E:\vs\forooshgah\forooshgah\obj\Debug\forooshgah.pdb
+E:\vs\forooshgah\forooshgah\obj\Debug\forooshgah.Form1.resources
